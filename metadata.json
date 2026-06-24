@@ -1,0 +1,6 @@
+{
+  "name": "iWebNext Financial Broker",
+  "description": "Affiliate financial broker platform offering personal loans, business financing, credit solutions, and investment referrals with secure AI-guided chat consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
